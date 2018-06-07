@@ -1,2 +1,2 @@
 # Data_analyis_FIT_course
-This was course focus on data analytics using python and jupyter notebook.
+The IPython notebooks was done for a course focused on data analytics using python and jupyter notebook.
